@@ -1,7 +1,7 @@
 ### Hi! 👋
 I'm Natalie Grefenstette. I'm passionate about solving climate and sustainability issues using machine learning, data science and code!
 
-As a [trained astrobiologist and chemist](https://wwww.nataliegref.com) with a passion for solving problems, I am now working as a data scientist. I have expertise in experimental design, statistical analysis, and data interpretation, I am excited to bring my science skills and knowledge to the world of climate.
+As a [trained astrobiologist and chemist](https://wwww.nataliegref.com) with a passion for solving problems, I am now working as a data scientist. I have expertise in experimental design, statistical analysis, and data interpretation; I am excited to bring my science skills and knowledge to the world of climate.
 
 I love learning and trying new things, from expanding my general science knowledge to things like designing, sewing, woodworking, and baking. In a past life I was a research scientist working with NASA, co-founded a startup, sang Jazz professionally and led my own band.
 
